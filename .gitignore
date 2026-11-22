@@ -1,0 +1,4 @@
+node_modules
+dist
+# Temporary reference photo: kept local only, never published
+images/
